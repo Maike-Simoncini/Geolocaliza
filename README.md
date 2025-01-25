@@ -24,3 +24,5 @@ Este projeto é um exemplo simples de como obter e exibir a localização atual 
 - **Passo 4:** Veja a latitude e longitude exibidas na página.
 
 ## link do projeto
+
+https://maike-simoncini.github.io/Geolocaliza/
